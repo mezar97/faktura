@@ -1,0 +1,121 @@
+body{
+    
+}
+
+img{
+    width: 230px;
+    margin-left: 200px
+}
+
+h2{
+    margin-left: 225px;
+    margin-top: -44px;
+}
+
+.företag-namet p{
+    margin-left: 420px;
+    margin-top: -112px;
+    font-family: 'Anton', sans-serif;
+    font-size: 40px;
+}
+
+
+.fakturas-detaljar p{
+    list-style-type: none; 
+    border-radius: 25px;
+    border-color: #000;
+    border: 3px;
+    border-style: solid;
+    background-color: #fff;
+    margin-left: 684px;
+    margin-right: 50px;
+    margin-top: -77px;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.fakturas-detaljar p span {
+    margin-right: 30px;
+}
+
+.yttriga-införmation p span{
+    margin-right: 50px;
+}
+
+.yttriga-införmation p{
+    margin-left: 725px;
+}
+
+.Bolaget-Adress p {
+    margin-left: 230px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.fakturas-införmation p{
+    margin-left: 225px;
+    margin-top: 70px;
+}
+
+.kundservices-tips p{
+    list-style-type: none; 
+    border-radius: 0px;
+    border-color: #000;
+    border: 1px;
+    border-style: solid;
+    background-color: #fff;
+    margin-left: 900px;
+    margin-right: 57px;
+    margin-top: -90px;
+    padding: 10px;
+    padding-top: 60px;
+    padding-left: 19px;
+    padding-right: 87px;
+    font-size: 14px;
+}
+
+#kundservice{
+    float: right;
+    margin-right: 130px;
+    margin-top: -400px;
+    margin-left: 50px;
+    width: 150px;
+}
+
+.faktura-uppgifter p{
+    margin-top: -125px;
+    margin-left: 225px;
+}
+.faktura-uppgifter hr{
+    border-radius: 10px;
+    border: 1px;
+    border-style: solid;
+    margin-left: 225px;
+    margin-right: 560px;
+}
+
+#införmation{ 
+    margin-top: 0px;
+    margin-left: 225px;
+}
+#införmation span{
+    margin-right: 210px;
+}
+
+.kontakt-inför p{
+    list-style-type: none; 
+    border-radius: 0px;
+    border-color: #000;
+    border: 1px;
+    border-style: solid;
+    background-color: #fff;
+    margin-left: 900px;
+    margin-right: 57px;
+    margin-top: 10px;
+    padding: 10px;
+    padding-top: 25px;
+    padding-left: 19px;
+    padding-right: 87px;
+    font-size: 14px;
+}

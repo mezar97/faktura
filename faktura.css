@@ -27,7 +27,7 @@ h2{
     border: 3px;
     border-style: solid;
     background-color: #fff;
-    margin-left: 684px;
+    margin-left: 600px;
     margin-right: 50px;
     margin-top: -77px;
     padding: 10px;
@@ -44,7 +44,7 @@ h2{
 }
 
 .yttriga-införmation p{
-    margin-left: 725px;
+    margin-left: -100px;
 }
 
 .Bolaget-Adress p {
@@ -65,7 +65,7 @@ h2{
     border: 1px;
     border-style: solid;
     background-color: #fff;
-    margin-left: 900px;
+    margin-left: 770px;
     margin-right: 57px;
     margin-top: -90px;
     padding: 10px;
@@ -123,7 +123,7 @@ h2{
     border: 1px;
     border-style: solid;
     background-color: #fff;
-    margin-left: 900px;
+    margin-left: 770px;
     margin-right: 57px;
     margin-top: 10px;
     padding: 10px;
@@ -236,19 +236,19 @@ div{
     font-size: 13px;
 }
 
-.main__ocr .text_in_3 {
+.ocr-tex .text- {
     border: 2px solid black;
-    margin-top: 21px;
+    margin-top: 18  px;
 }   
-.main__ocr p span {
+.ocr-tex p span {
     float: right;
-    padding-right: 30px;
+    padding-left: 30px;
 }
 
-.main__ocr p{
-    margin-left: 10px;
+.ocr-tex p{
+    margin-left: 21px;
     margin-top: 10px;
-    padding: 10px;
+    padding: 6px;
     font-family: 'Nova Flat', cursive;
 }
 

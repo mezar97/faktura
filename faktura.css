@@ -100,7 +100,20 @@ h2{
     margin-left: 225px;
 }
 #införmation span{
+    margin-right: 335px;
+    margin-left: 5px;   
+}
+#Öresavrundning span{
+    margin-right: 290px;
+    margin-left: 227px;   
+}
+#tillhanda span{
     margin-right: 210px;
+    margin-left: 227px; 
+}
+
+#tillhanda {
+    margin-top: -15px;
 }
 
 .kontakt-inför p{
@@ -118,4 +131,155 @@ h2{
     padding-left: 19px;
     padding-right: 87px;
     font-size: 14px;
+}
+
+.förklaring p{
+    margin-left: 225px;
+    margin-top: -27px;   
+    font-size: 12px;
+}
+
+.betalning-inför p{
+    font-family: 'Nova Flat', cursive;
+    margin-left: 225px;
+    margin-top: 125px;
+}
+
+.betalning-inför span{
+    margin-right: 425px;
+}
+div{
+    display: block;
+}
+
+.ocr-box {
+    width: 77%;
+    height: 100px;
+    border-top: 1px solid black;
+    margin-bottom: 100px;
+    margin-left: 225px; 
+}
+.ocr-box h1{
+    padding-top: -2px;
+    padding-bottom: -4px;
+    font-size: 20px;
+}
+/*{
+    box-sizing: content-box;
+    overflow: auto;
+    text-transform: uppercase;
+}*/
+
+.box-text {
+    display: inline-block;
+    float: right;
+    padding: 10px;
+    border: 1px solid black;
+    padding-left: 20PX;
+    padding-bottom: 10PX;
+}
+
+.bank-förklaring h4{
+    margin-top: 5px;
+}
+
+.andra-bankar li{
+    margin-left: 175px;
+    margin-top: -68px;
+}
+
+.använder p {
+    font-size: 15px;
+}
+
+.osr-inför p {
+    margin-left: 547px;
+    margin-top: -87px;  
+    font-size: 18px;  
+}
+
+.osr-inför span{
+    margin-right: 78px;
+}
+
+.avsändare p {
+    margin-top: 50px;
+}
+
+.logo{
+    margin-left: 225px;
+    margin-top: -139px;
+}
+
+.small-text h5 {
+    margin-top: -5px;
+}
+
+.ocr_tx {
+    width: 100%;
+    height: 77px;
+}
+
+.ocr_tx_box span{
+    margin-left: 9px;
+    padding-right: 8px;
+    padding-left: 10px;
+}
+
+.ocr_tx_box {
+    display: inline-block;
+    float: right;
+    border: 1px solid black;
+    padding-top: 0px;
+    padding-left: 87px;
+    padding-right: 67px;
+    font-size: 13px;
+}
+
+.main__ocr .text_in_3 {
+    border: 2px solid black;
+    margin-top: 21px;
+}   
+.main__ocr p span {
+    float: right;
+    padding-right: 30px;
+}
+
+.main__ocr p{
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    font-family: 'Nova Flat', cursive;
+}
+
+.fakturasbottom h5 {
+    margin-top: 48px;
+    margin-left: 20px;
+}
+
+.fakturasbottom span{
+    margin-right: 205px;
+}
+.fakturasbottom .kr{
+    margin-right: 90px;
+}
+
+..sisita-text p {
+    margin-top: 20px;
+}
+
+.sisita-text span{
+    margin-right: 50px;
+}
+
+.sisita-text .kronor{
+    margin-left: 129px;
+    margin-right: 103px;
+}
+
+
+.sisita-text .numer{
+    float: right;
+    margin-left: 30px;
+    margin-right: 20px;
 }
